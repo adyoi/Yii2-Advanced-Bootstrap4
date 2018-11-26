@@ -1,8 +1,31 @@
 # Yii2 Advanced Bootstrap 4
-Customized by @adyoi
 ---
+## Customized by @adyoi
 
-Application Configuration
+## Frontend
+
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr1.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr2.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr3.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr4.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr5.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr6.png)
+
+## Backend
+
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr7.png)
+
+## Gii
+
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii1.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii2.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii3.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii4.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii5.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii6.png)
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/gii7.png)
+
+## Application Configuration
 
 | Name          | Value         |
 | ------------- | ------------- |
@@ -15,7 +38,7 @@ Application Configuration
 | Environment         | dev |
 | Debug Mode          | Yes |
 
-Installed Extensions
+## Installed Extensions
 
 | Name          | Value         |
 | ------------- | ------------- |
@@ -26,7 +49,7 @@ Installed Extensions
 | yiisoft/yii2-gii         | 9999999-dev |
 | yiisoft/yii2-swiftmailer | 9999999-dev |
 
-PHP Configuration
+## PHP Configuration
 
 | Name          | Value         |
 | ------------- | ------------- |
@@ -34,3 +57,10 @@ PHP Configuration
 | Xdebug        | Disabled |
 | APC           | Disabled |
 | Memcache      | Disabled |
+
+
+## Requirements
+Windows 10 64 Bit
+
+XAMPP Version: 7.2.6
+Control Panel Version: 3.2.2 
