@@ -6,9 +6,9 @@ $ cd Yii2-Advanced-Bootstrap4
 
 $ composer update
 
-$ git clone https://github.com/adyoi/Glyphicons-CSS.git /vendor/yiisoft/yii2-debug/src/assets
+$ git clone https://github.com/adyoi/Glyphicons-CSS.git ./vendor/yiisoft/yii2-debug/src/assets
 
-$ git clone https://github.com/adyoi/Glyphicons-CSS.git /vendor/yiisoft/yii2-gii/src/assets
+$ git clone https://github.com/adyoi/Glyphicons-CSS.git ./vendor/yiisoft/yii2-gii/src/assets
 
 $ init #0: Development 1: Production
 
