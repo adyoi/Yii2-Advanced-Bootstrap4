@@ -1,6 +1,5 @@
 # Yii2 Advanced Bootstrap 4
----
-## Customized by @adyoi
+Customized by @adyoi
 
 ## Frontend
 
@@ -9,11 +8,14 @@
 ![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr3.png)
 ![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr4.png)
 ![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr5.png)
-![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr6.png)
 
 ## Backend
 
 ![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr7.png)
+
+## Debug
+
+![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr6.png)
 
 ## Gii
 
