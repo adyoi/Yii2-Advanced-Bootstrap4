@@ -12,6 +12,8 @@ $ git clone https://github.com/adyoi/Glyphicons-CSS.git /vendor/yiisoft/yii2-gii
 
 $ init #0: Development 1: Production
 
+<br>
+
 ## Little Modification
 
 Edit File /vendor/yiisoft/yii2-bootstrap/BootstrapAsset.php
@@ -43,6 +45,8 @@ public $css = [
     'glyphicons-halflings-regular.min.css',
 ];
 ```
+
+<br>
 
 ## Enjoy
 
