@@ -1,6 +1,8 @@
 # Yii2 Advanced Bootstrap 4
 Customized by @adyoi
 
+How is it work ? https://github.com/adyoi/Yii2-Advanced-Bootstrap4/tree/master/documents
+      
 ## Frontend
 
 ![ScreenShot](https://raw.githubusercontent.com/adyoi/Yii2-Advanced-Bootstrap4/master/documents/screenshot/scr1.png)
@@ -61,7 +63,7 @@ Customized by @adyoi
 | Memcache      | Disabled |
 
 
-## Requirements
+## Tested on
 Windows 10 64 Bit
 
 XAMPP Version: 7.2.6
