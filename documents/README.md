@@ -38,7 +38,7 @@ public $css = [
 ];
 ```
 
-Edit File /vendor/yiisoft/yii2-gii/src/views/layouts/main.php
+Edit File /vendor/yiisoft/yii2-gii/src/GiiAsset.php
 ```
 public $css = [
     'main.css',
@@ -46,7 +46,7 @@ public $css = [
 ];
 ```
 
-Edit File /vendor/yiisoft/yii2-gii/src/GiiAsset.php
+Edit File /vendor/yiisoft/yii2-gii/src/views/layouts/main.php
 ```
 <?php
 use yii\bootstrap\NavBar;
