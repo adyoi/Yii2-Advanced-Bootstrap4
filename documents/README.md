@@ -110,7 +110,7 @@ $asset = yii\gii\GiiAsset::register($this);
 ## Enjoy
 
 Frontend:
-http://{path}/Yii2-Advanced-Bootstrap4/frontend/web/index.php
+http://{webroot}/Yii2-Advanced-Bootstrap4/frontend/web/index.php
 
 Backend:
-http://{path}/Yii2-Advanced-Bootstrap4/backend/web/index.php
+http://{webroot}/Yii2-Advanced-Bootstrap4/backend/web/index.php
