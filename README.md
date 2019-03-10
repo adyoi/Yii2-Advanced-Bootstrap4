@@ -1,4 +1,6 @@
 # Yii2 Advanced Bootstrap 4
+[![Yii](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+
 Customized by @adyoi
 
 How is it work ? https://github.com/adyoi/Yii2-Advanced-Bootstrap4/tree/master/documents
